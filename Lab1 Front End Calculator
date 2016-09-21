@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="Calculator Lab 1" content="Micheal Slattery C12383326">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> Calculator Lab 1</title>
+<style id="jsbin-css">
+div {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:#CCC ;
+    padding: 15px;
+    box-shadow: 10px 10px 5px grey;
+}
+</style>
+</head>
+<body>
+
+  <h3> Micheal Slattery C12383326</h3>
+  
+  <div style = "width:160px">
+  <form name = "calc">
+    <input name = "output"/>
+    </br>
+    </br>
+  
+  <input type = "button", value='(', style = "width:35px"/>
+  <input type = "button", value=")", style = "width:35px"/>
+  <input type = "button", value="+", style = "width:35px"/>
+  <input type = "button", value="%", style = "width:35px"/>
+  <br/>
+  
+  <input type ="button", value ='7', style = "width:35px"/>
+  <input type ="button", value ='8', style = "width:35px"/>
+  <input type = "button", value="9", style = "width:35px"/>
+  <input type = "button", value="x", style = "width:35px"/>
+  <br/>
+  
+  <input type = "button", value = "4", style = "width:35px"/>
+  <input type = "button", value = "5", style = "width:35px"/>
+  <input type = "button", value = "6", style = "width:35px"/>
+  <input type = "button", value = "-", style = "width:35px"/>
+  <br/>
+  
+  <input type = "button", value = "1", style = "width:35px"/>
+  <input type = "button", value = "2", style = "width:35px"/>
+  <input type = "button", value = "3", style = "width:35px"/>
+  <input type = "button", value = "+", style = "width:35px"/>
+  <br/>
+  
+  <input type = "button", value = "0", style = "width:35px"/>
+  <input type = "button", value = ".", style = "width:35px"/>
+  <input type = "button", value = "C", style = "width:35px"/>
+  <input type = "button", value = "=", style = "width:35px"/>  
+  
+    
+  </form>
+  </div>
+    
+
+
+<script id="jsbin-source-css" type="text/css">
+div {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:#CCC ;
+    padding: 15px;
+    box-shadow: 10px 10px 5px grey;
+}
+</script>
+</body>
+</html>
